@@ -1,0 +1,4 @@
+2024-09-02 11:14:07.406 [info] Started local extension host with pid 139854.
+2024-09-02 11:14:13.191 [info] [perf] Render performance baseline is 103ms
+2024-09-02 11:14:13.370 [error] ENOENT: no such file or directory, open '/root/Web-Security-Academy-Series-Extras/~/.vscodeconf/User/globalStorage/vscodevim.vim/.registers': Error: ENOENT: no such file or directory, open '/root/Web-Security-Academy-Series-Extras/~/.vscodeconf/User/globalStorage/vscodevim.vim/.registers'
+2024-09-02 11:21:45.058 [warning] SettingsEditor2: Settings not included in settingsLayout.ts: issueReporter.experimental.auxWindow

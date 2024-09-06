@@ -1,0 +1,23 @@
+2024-09-03 12:08:35.470 [info] (Client) Pylance async client (2024.8.2) started with python extension (2024.12.3)
+2024-09-03 12:08:36.574 [info] [Info  - 12:08:36 PM] (8685) Server root directory: file:///root/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist
+2024-09-03 12:08:36.576 [info] [Info  - 12:08:36 PM] (8685) Experimental Pylance language server 2024.8.2 (pyright version 1.1.373, commit ee424479) starting
+2024-09-03 12:08:36.589 [info] [Info  - 12:08:36 PM] (8685) Starting service instance "broken-authentication"
+2024-09-03 12:08:36.853 [info] [Info  - 12:08:36 PM] (8685) Setting pythonPath for service "broken-authentication": "/bin/python3"
+2024-09-03 12:08:36.867 [info] [Info  - 12:08:36 PM] (8685) Setting environmentName for service "broken-authentication": "3.10.12 (global)"
+2024-09-03 12:08:36.867 [info] [Info  - 12:08:36 PM] (8685) No include entries specified; assuming /root/Web-Security-Academy-Series-Extras/broken-authentication
+2024-09-03 12:08:36.867 [info] [Info  - 12:08:36 PM] (8685) Auto-excluding **/node_modules
+2024-09-03 12:08:36.867 [info] [Info  - 12:08:36 PM] (8685) Auto-excluding **/__pycache__
+2024-09-03 12:08:36.885 [info] [Info  - 12:08:36 PM] (8685) Auto-excluding **/.*
+2024-09-03 12:08:37.064 [info] [Info  - 12:08:37 PM] (8685) Assuming Python version 3.10.12.final.0
+2024-09-03 12:08:37.283 [info] [Info  - 12:08:37 PM] (8685) Found 7 source files
+2024-09-03 12:08:39.624 [info] [Info  - 12:08:39 PM] (8685) Background analysis(1) root directory: file:///root/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist
+2024-09-03 12:08:39.630 [info] [Info  - 12:08:39 PM] (8685) Background analysis(1) started
+2024-09-03 12:08:41.916 [info] [Info  - 12:08:41 PM] (8685) Indexer background runner(2) root directory: file:///root/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist (index)
+2024-09-03 12:08:41.916 [info] [Info  - 12:08:41 PM] (8685) Indexing(2) started
+2024-09-03 12:08:42.848 [info] [Info  - 12:08:42 PM] (8685) [BG(1)] Long operation: SemanticTokens full at file:///root/Web-Security-Academy-Series-Extras/broken-authentication/lab-06/authentication-lab-06-usernames.py (2773ms)
+2024-09-03 12:08:47.633 [info] [Info  - 12:08:47 PM] (8685) [IDX(2)] Long operation: scan packages file:///root/Web-Security-Academy-Series-Extras/broken-authentication (5334ms)
+2024-09-03 12:08:47.633 [info] [Info  - 12:08:47 PM] (8685) scanned(2) 211 files over 1 exec env
+2024-09-03 12:08:54.242 [info] [Info  - 12:08:54 PM] (8685) [IDX(2)] Long operation: index execution environment file:///root/Web-Security-Academy-Series-Extras/broken-authentication (6050ms)
+2024-09-03 12:08:54.311 [info] [Info  - 12:08:54 PM] (8685) [IDX(2)] Long operation: index packages file:///root/Web-Security-Academy-Series-Extras/broken-authentication (6154ms)
+2024-09-03 12:08:54.313 [info] [Info  - 12:08:54 PM] (8685) indexed(2) 115 files over 1 exec env
+2024-09-03 12:08:54.450 [info] [Info  - 12:08:54 PM] (8685) Indexing finished(2).

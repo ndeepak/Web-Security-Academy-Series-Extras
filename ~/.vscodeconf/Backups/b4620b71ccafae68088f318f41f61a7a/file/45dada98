@@ -1,0 +1,9 @@
+file:///root/Web-Security-Academy-Series-Extras/broken-authentication/lab-01/notes.txt {"mtime":1725254100648,"ctime":1725254100648,"size":153,"etag":"3d0cslnk04t","orphaned":false,"typeId":""}
+Lab 1 - Username enumeration via different responses
+
+Target goal: Enumerate a valid username and password to access the application.
+
+username: arkansas
+
+simple use burpsuite,
+intruder feature.
